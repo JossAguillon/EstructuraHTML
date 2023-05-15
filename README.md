@@ -13,7 +13,7 @@
 ## ✨CONTENIDO
 ✨ **Imágenes del Mar**: Aquí podemos observar dos imágenes, una fue importada desde internet y la otra importada desde las imágenes de nuestra computadora.
 
-✨ **Lista de Playas Bonitas**
+✨ **Lista de Playas Bonitas**:
 
 ✨ **Order List**: Sección conformada por etiquetas <ol> y <li>
   
