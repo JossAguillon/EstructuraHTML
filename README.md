@@ -4,9 +4,9 @@
 ## ✨ÍNDICE
 
 * [1. Intro](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#1-intro)
-* [2. Qué construí](#)
-* [3. Objetivo del proyecto](#)
-* [4. Link a demo](#)
+* [2. Qué construí](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del proyecto](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a demo](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#4-link-a-demo)
 
 **
 
