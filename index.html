@@ -1,89 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-
+    <!--Identacion-->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="style.css" rel="stylesheet">
-    <title>Google</title>
+    <link rel="stylesheet" href="style.css"/>
+    <title>Document</title>
 </head>
-
 <body>
-    <header>
-        <nav>
-            <ul class="nav-right-section">
-                <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
-                <li> <a href="https://www.google.com.mx/imghp?hl=es&authuser=0&ogbl">Imágenes</a></li>
-                <li class="menu-icon"><a href="#"></a></li>
-                <li><img src="https://lh3.googleusercontent.com/ogw/AOLn63GAV1VrreO6gjbDh8u4wUFWc9zFH1az-8j8LZiJ_Q=s64-c-mo"</li>
-                <!--Agregar varios elementos li*5-->
-            </ul>
-        </nav>
-    </header>
+    <h1>Página inspirada en el Mar</h1>
+    <h3>Imágenes del mar</h3>
+    <!--Imagen desde internet-->
 
-    <main>
-        <section class="main-logo">
-            <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+    <img src="https://www.nautilus.es/wp-content/uploads/2021/02/pexels-matt-hardy-3560168.jpg">
 
-        </section>
+    <!--Imagen desde la computadora-->
+    <img src="p4.jpeg">
 
-        <section class="main-input">
-            <div class="main-input-container"> 
-                <span class="search-icon"></span>
-                <input type="text">
-                <a class="micro-icon" href="#"></a>
-                <a class="cam-icon" href="#"></a>
-            </div>
-        </section>
-
-        <section class="main-buttons">
-            <div> <button> Buscar con google</button></div>
-            <div> <button>Voy a tener suerte </button></div>
-        </section>
-
-    </main>
-
-    <footer>
-        <ul class="footer-left">
-            <li>
-                <a href="https://ads.google.com/intl/es_mx/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2m--ahpm-0000000131-0000000000&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Publicidad</a>
-            </li>
+    <!--Crear enlaces externos-->
+    <p> Si  quiere ver más imágenes,<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Forilla-mar&psig=AOvVaw07P_iWkyVG2vSCdiQU9uTV&ust=1682477000847000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiwubOBxP4CFQAAAAAdAAAAABAP" target="_blank"> da clik aqui </a> </p>
     
-                    <li>
-                <a href="https://smallbusiness.withgoogle.com/intl/es-419_mx/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=ww-ww-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u&c=MX#!/">Negocios</a>
-            </li>
-    
-        
-            <li>
-                <a href="">Acerca de</a>
-            </li>
+    <h3> Lista de playas bonitas :)</h3>
+    <p> Cancún</p>
 
-            <li>
-                <a href="https://www.google.com/search/howsearchworks/?fg=1">Como funciona la Busqueda</a>
-            </li>
-        </ul>
+    <ol>
+        <li> La sirena</li>
+        <li> Las piedras</li>
+        <li> Luna</li>
+    </ol>
 
-<ul class="footer-right">
-            <li>
-                <a href="https://policies.google.com/privacy?hl=es-MX&fg=1">Privacidad</a>
-            </li>
+    <p> Playas que he <i> visitado:</i></p>
+    <ul>
 
-                    <li>
-                <a href="https://policies.google.com/terms?hl=es-MX&fg=1">Condiciones</a>
-            </li>
 
-        
-            <li>
-                <a href="">Preferencias</a>
-            </li>
+        <li> Agua Azul</li>
+        <li> Playa linda</li>
+        <li> Isla mujeres</li>
+    </ul>
 
-        
-        </ul>
-        
-    }
+    <p> ¿Volverías a visitarlas?</p>
 
-    </footer>
+    <label> 
+        <input id="NO"
+        type="radio" value="NO"
+        name="Si"> No gracias
+    </label>
+
+    <label> 
+        <input id="SI"
+        type="radio" value="SI"
+        name="Si"> SII
+    </label>
+
+<div class ="contenedor">
+    <p> ¿Qué es lo que más disfrutas de vacacionar?</p>
+
+    <input type="checkbox" id="act1" name="act1">
+<label for="tarea1">No hacer nada</label><br>
+
+<input type="checkbox" id="act2" name="act2">
+<label for="tarea2">Comer</label><br>
+
+<input type="checkbox" id="act3" name="act3">
+<label for="tarea2">Broncearme</label><br>
+
+<input type="checkbox" id="act4" name="act4">
+<label for="nadar">Nadar</label><br>
+</div>
+
 </body>
-
+<footer>
+    <p> <small> Esta pagina fue creada durante el bootcamp de Tecnolochicas</small></p>
+    <p> Si  quieres saber más unete y ,<a href="https://tecnolochicas.mx/" target="_blank"> da clik aqui </a> </p>
+    <a href="https://www.instagram.com/jocelyn_aguillon/">Touch me:):</a>
+</footer>
 </html>
+<!--Así se ponen los comentarios-->
