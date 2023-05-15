@@ -1,31 +1,29 @@
-# Clonación de la de interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO 💗
+# Primer proyecto sobre la estructura y herramientas básicas de HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO 💗
 
 
 ## ✨ÍNDICE
 
-* [1. Intro](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#1-intro)
-* [2. Qué construí](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a demo](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#4-link-a-demo)
+* [1. Imágenes del Mar]()
+* [2. Lista de Playas Bonitas]()
+* [3. Order List]()
+* [4. Unorder List]()
+* [5. Label]()
+* [6. Checkbox]()
 
-**
+## ✨CONTENIDO
+✨ **Imágenes del Mar**: Aquí podemos observar dos imágenes, una fue importada desde internet y la otra importada desde las imágenes de nuestra computadora.
+✨ **Lista de Playas Bonitas**
+✨ **Order List**: Sección conformada por etiquetas <ol> y <li>
+✨ **Unorder List**: Sección conformada por etiquetas <ul> y <li>
+✨ **Label**: Aquí utilizamos una etiqueta descriptiva de tipo <label> para agregar elementos de formulario
+✨ **Checkbox**: Esta etiqueta se utiliza para recopilar información cuando se presentan opciones múltiples y los usuarios pueden seleccionar una o varias opciones. 
+  
 
-## ✨1. Intro
+✨ **Footer**: Sección que incluye una etiqueta de tipo parrafo con un tamaño small para una pequeña descripción.
+Incluye un hipervínculo a la página oficial de Tecnolochicas.
+Y se adicionó un pequeño link de referencia a mi Intagram personal. 
 
-HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
+✨ **Objetivo del Proyecto**
+Aprender a utilizar las herramientas y estructura básica de HTML5.
 
-## ✨2. Qué construí
 
-En este proyecto me enfoqué en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
-
-**Header**: Sección que involucra la foto de mi perfil, iconos y el menú con hipervínculos.
-
-**Main**: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
-
-**Footer**: Sección que incluye hipervínculos al final de la página.
-
-## ✨3. Objetivo del Proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
-
-## ✨4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
