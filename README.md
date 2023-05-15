@@ -3,7 +3,7 @@
 
 ## ✨ÍNDICE
 
-* [1. Intro](https://github.com/JossAguillon/ClonGoogle/edit/main/README.md#1-intro)
+* [1. Intro](https://github.com/JossAguillon/ClonGoogle/blob/main/README.md#1-intro)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
 * [4. Link a demo](#)
