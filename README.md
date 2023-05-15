@@ -15,11 +15,11 @@
 
 ✨ **Lista de Playas Bonitas**:
 
-✨ **Order List**: Sección conformada por etiquetas "<ol> y <li>"
+✨ **Order List**: Sección conformada por etiquetas "<_ol>" y "<_li>"
   
-✨ **Unorder List**: Sección conformada por etiquetas "<ul> y <li>"
+✨ **Unorder List**: Sección conformada por etiquetas "<_ul>" y "<_li>"
   
-✨ **Label**: Aquí utilizamos una etiqueta descriptiva de tipo "<label>" para agregar elementos de formulario
+✨ **Label**: Aquí utilizamos una etiqueta descriptiva de tipo "<_label>" para agregar elementos de formulario
   
 ✨ **Checkbox**: Esta etiqueta se utiliza para recopilar información cuando se presentan opciones múltiples y los usuarios pueden seleccionar una o varias opciones. 
   
