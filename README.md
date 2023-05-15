@@ -24,8 +24,8 @@
 ✨ **Checkbox**: Esta etiqueta se utiliza para recopilar información cuando se presentan opciones múltiples y los usuarios pueden seleccionar una o varias opciones. 
   
 ✨ **Footer**: Sección que incluye una etiqueta de tipo parrafo con un tamaño small para una pequeña descripción.
-Incluye un hipervínculo a la página oficial de Tecnolochicas.
-Y se adicionó un pequeño link de referencia a mi Intagram personal. 
+  Incluye un hipervínculo a la página oficial de Tecnolochicas.
+  Y se adicionó un pequeño link de referencia a mi Intagram personal. 
 
 ✨ **Objetivo del Proyecto**
 Aprender a utilizar las herramientas y estructura básica de HTML5.
